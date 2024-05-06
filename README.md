@@ -1,5 +1,6 @@
 # Laboratorio de aprendizaje de Software Libre
 Proyecto de alumnos de la cátedra Software Libre de la Universidad Nacional del Comahue.
+#
 
 # Sitio Base estático en HTML para documentación
 Como primera intervención, se realizo un fork del proyecto https://github.com/uncoma-curza-lab/base_estatica y se comenzo a editar.
